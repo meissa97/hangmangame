@@ -1,4 +1,5 @@
 {
+    "categoris":{
     "fruits": [
       "apple",
       "banana",
@@ -96,5 +97,6 @@
         "camel",
         "eagle",
         "crocodile"
-    ]
+        ]
+    }
 }
