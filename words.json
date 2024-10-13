@@ -1,5 +1,4 @@
 {
-    "categories":{
     "fruits": [
       "apple",
       "banana",
@@ -98,5 +97,4 @@
         "eagle",
         "crocodile"
         ]
-    }
 }
